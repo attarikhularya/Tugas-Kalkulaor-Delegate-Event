@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe.config
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.pdb
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csprojAssemblyReference.cache
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form1.resources
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form2.resources
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Properties.Resources.resources
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.exe
+C:\Users\User\Downloads\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.pdb

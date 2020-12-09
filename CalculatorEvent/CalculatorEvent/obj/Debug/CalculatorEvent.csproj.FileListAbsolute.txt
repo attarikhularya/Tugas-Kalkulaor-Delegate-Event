@@ -1,0 +1,10 @@
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\bin\Debug\CalculatorEvent.exe.config
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\bin\Debug\CalculatorEvent.exe
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\bin\Debug\CalculatorEvent.pdb
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form1.resources
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form2.resources
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\CalculatorEvent.Properties.Resources.resources
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\CalculatorEvent.csproj.GenerateResource.cache
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\CalculatorEvent.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\CalculatorEvent.exe
+C:\Users\User\Videos\CalculatorEvent-master\Calculatorbaru\obj\Debug\CalculatorEvent.pdb
